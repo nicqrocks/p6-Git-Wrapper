@@ -16,6 +16,6 @@
   "tags" : [ "git", "wrapper" ],
   "support" : {
     "source" : "git@gitlab.com:orangebot/p6-Git-Wrapper.git"
-  },z
+  },
   "source-url" : "git@gitlab.com:orangebot/p6-Git-Wrapper.git"
 }
