@@ -36,7 +36,7 @@ plan 2;
 #Try each test indivigually.
 subtest {
     for @commits -> $c {
-        ok Git::Log::Parser.parse($c), "Can parse commit, index {$++}";
+        ok Git::Log::Parser.parse($c), "Can parse commit, index $($++)";
     }
 }
 
